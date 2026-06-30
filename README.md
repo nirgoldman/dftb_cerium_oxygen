@@ -1,6 +1,6 @@
 This repo contains the following:
 Cerium:
-    PBE:
+    PBE: \\
         -DFTB+ skf files optimized to the alpha-Ce band structure.
         -ChIMES 2-body, 3-body, and 4-body repuslive energies.
     PBE0: 
